@@ -28,7 +28,7 @@ public class Etablissement {
 
         // CREATION ET INSCRIPTION DES ELEVES
         // TROISIEME
-        Eleve eleveUn = new Eleve(1, "MADJANTA", "Ariel", 15, 100705);
+        Eleve eleveUn = new Eleve(1, "MADJA", "Ariel", 15, 100705);
         eleveUn.setClasseEleve(troisieme);
         Eleve eleveDeux = new Eleve(2, "YOYO", "Direma", 16, 017050);
         eleveDeux.setClasseEleve(troisieme);
